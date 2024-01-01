@@ -1,0 +1,14 @@
+.profile-details{
+    margin-top: 1rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 10px 20px 0px #80808029;
+    border-radius: 9px;
+    padding: 1rem;
+}
+.avatar{
+    width: 5rem;
+    height: 5rem;
+}
